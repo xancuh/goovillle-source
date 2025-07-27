@@ -13,8 +13,8 @@ GooVille is a old Google archive dating back to 2009 and more versions of Google
 
 # CREDITS
 -----------------------------------------------------------------------------------------
-- xyz#9999 - creator of gooville
-- vetti#0001 - helped with year archives and many more things.
+- @b10i - owner
+- vetti (gone) - found the versions
 
 ------------------------------------------------------------------------------------------
 
