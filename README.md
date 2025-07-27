@@ -1,7 +1,7 @@
 -----------------------------------------------------------------------------------------
 # FYI
 -----------------------------------------------------------------------------------------
-GooVille is now defunct and I will not update this source. This source is pretty unfinished and there are most bugs.
+This is the GoRev source. I might update this.
 
 ------------------------------------------------------------------------------------------
 
